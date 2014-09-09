@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>shopalikexml</name>
+            <displayName><![CDATA[Exportador ShopALike]]></displayName>
+            <version><![CDATA[1.0]]></version>
+            <description><![CDATA[Exporta productos en formato XML a ShopALike]]></description>
+            <author><![CDATA[JAPEON - JAPPSOFT SL]]></author>
+            <tab><![CDATA[export]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>
